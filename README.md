@@ -1,5 +1,5 @@
-# Diabetes prediction
+# Personality prediction
 
 ### Predict a disease with medical data
 
-Predict diabetes with medical information, project done by me.
+Predict personality with information obtained from Kaggle, project done by me.
